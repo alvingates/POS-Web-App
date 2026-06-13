@@ -1,0 +1,6 @@
+{
+  "name": "Retail POS System",
+  "description": "A modern point of sale application for retail stores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
